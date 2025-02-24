@@ -2,6 +2,6 @@
 School work
 Milestone 1
 
-My bot will be fetching sports-related trivia questions on a free API URL
-Open Trivia Database (OpenTDB)
+Our bot will be fetching sports-related trivia questions on a free API URL
+Open Trivia Database (OpenTDB) is our source for generating Trivia questions. 
 
